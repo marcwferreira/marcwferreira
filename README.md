@@ -29,7 +29,7 @@
   - Playing games
   - Puzzles
   - English, 日本語, Portuguese, ... 
-  - Badminton
+  - Baseball
  
 ### Things I plan on learning 🌱
   
