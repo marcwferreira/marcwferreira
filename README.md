@@ -1,4 +1,4 @@
-### Hi, I'm Marcos (Ferreira) ⚡
+### Hi, I'm Marcos Ferreira ⚡
 
 #### I am a currently a computer engineer student at FEUP - Portugal
 
