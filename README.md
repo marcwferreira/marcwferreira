@@ -33,7 +33,7 @@
  
 ### Things I plan on learning 🌱
   
-  - Rust
+  - Rust (in progress)
   - ...
   
   
