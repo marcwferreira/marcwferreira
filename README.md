@@ -12,7 +12,7 @@
  
 ### Things I plan on learning 🌱
   
-  - Rust (in progress)
+  - Zig
   - ...
   
   
